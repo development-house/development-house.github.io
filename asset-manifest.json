@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a3fd8b0.chunk.css",
-    "main.js": "/static/js/main.b1e81b10.chunk.js",
-    "main.js.map": "/static/js/main.b1e81b10.chunk.js.map",
+    "main.css": "/static/css/main.5f50cd53.chunk.css",
+    "main.js": "/static/js/main.a45eacf4.chunk.js",
+    "main.js.map": "/static/js/main.a45eacf4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1ddc2d8d.js",
     "runtime-main.js.map": "/static/js/runtime-main.1ddc2d8d.js.map",
-    "static/js/2.59f5820e.chunk.js": "/static/js/2.59f5820e.chunk.js",
-    "static/js/2.59f5820e.chunk.js.map": "/static/js/2.59f5820e.chunk.js.map",
+    "static/js/2.d17f1f50.chunk.js": "/static/js/2.d17f1f50.chunk.js",
+    "static/js/2.d17f1f50.chunk.js.map": "/static/js/2.d17f1f50.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8a27249a245827da38dc5ef378e10e29.js": "/precache-manifest.8a27249a245827da38dc5ef378e10e29.js",
+    "precache-manifest.48dd9741eb3e35457e58500b7bee5042.js": "/precache-manifest.48dd9741eb3e35457e58500b7bee5042.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5a3fd8b0.chunk.css.map": "/static/css/main.5a3fd8b0.chunk.css.map",
-    "static/js/2.59f5820e.chunk.js.LICENSE.txt": "/static/js/2.59f5820e.chunk.js.LICENSE.txt",
+    "static/css/main.5f50cd53.chunk.css.map": "/static/css/main.5f50cd53.chunk.css.map",
+    "static/js/2.d17f1f50.chunk.js.LICENSE.txt": "/static/js/2.d17f1f50.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.c067a29a.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.29a8831a.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.13b5a685.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.8b7d0a8e.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.ed1350fa.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.03320e76.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.31474140.svg",
     "static/media/logo.svg": "/static/media/logo.d0226032.svg",
-    "static/media/tile_advanced_software_engine.png": "/static/media/tile_advanced_software_engine.2e732f4c.png",
-    "static/media/tile_ddd_microservices.png": "/static/media/tile_ddd_microservices.2dd38742.png",
-    "static/media/tile_industry_leading_security.png": "/static/media/tile_industry_leading_security.641d9916.png",
-    "static/media/tile_work_of_creating_game.png": "/static/media/tile_work_of_creating_game.392aa4b5.png"
+    "static/media/tile_advanced_software_engine.png": "/static/media/tile_advanced_software_engine.2e732f4c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1ddc2d8d.js",
-    "static/js/2.59f5820e.chunk.js",
-    "static/css/main.5a3fd8b0.chunk.css",
-    "static/js/main.b1e81b10.chunk.js"
+    "static/js/2.d17f1f50.chunk.js",
+    "static/css/main.5f50cd53.chunk.css",
+    "static/js/main.a45eacf4.chunk.js"
   ]
 }
